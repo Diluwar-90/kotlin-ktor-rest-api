@@ -1,5 +1,4 @@
 # kotlin-ktor-rest-api
-# Kotlin Ktor REST API
 
 This is a **User Management REST API** built with **Kotlin** and **Ktor**, using **PostgreSQL** as the database.
 
